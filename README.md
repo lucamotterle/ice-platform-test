@@ -15,6 +15,7 @@ This project is aimed to show us your technical skills in regards to design, imp
 * application provides any kind of interface to interact with it
 * persistence is provided
 
+
 ## Task 
 
 Design a comprehensive architecture and showcase it using a tool of your preference. The application will undergo evaluation based on the following criteria:
@@ -26,6 +27,7 @@ Design a comprehensive architecture and showcase it using a tool of your prefere
 3. Cost Optimization: The architecture should aim for cost optimization by implementing resource-efficient solutions and considering factors such as scalability and utilization of resources.
 
 4. Monitoring: The architecture should include a comprehensive monitoring system that enables real-time tracking and analysis of the application's performance, identifying potential issues or bottlenecks.
+
 
 *Note: Feel free to specify the desired tool or provide additional requirements*
 
